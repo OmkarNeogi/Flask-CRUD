@@ -1,0 +1,2 @@
+This section has code to register and authenticate a user through JWT tokens, and access CRUD methods based on access rights.
+It does not use an ORM like SQLAlchemy leading to duplicated code. The next section solves this issue.
